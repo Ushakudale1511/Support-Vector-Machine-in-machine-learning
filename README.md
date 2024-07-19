@@ -27,5 +27,7 @@ C: Margin maximisation and misclassification fines are balanced by the regularis
 
 Hinge Loss: A typical loss function in SVMs is hinge loss. It punishes incorrect classifications or margin violations. The objective function in SVM is frequently formed by combining it with the regularisation term.
 
+**OUTPUT:**
+
 ![Screenshot (198)](https://github.com/user-attachments/assets/4a5eb768-9dd9-4a91-a6de-70287a7c9309)
 
